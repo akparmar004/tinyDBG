@@ -1,0 +1,6 @@
+/home/eren/projects/linux_debugger/build/CMakeFiles/tinydbg.dir
+/home/eren/projects/linux_debugger/build/CMakeFiles/hello.dir
+/home/eren/projects/linux_debugger/build/CMakeFiles/stack.dir
+/home/eren/projects/linux_debugger/build/CMakeFiles/libelfin.dir
+/home/eren/projects/linux_debugger/build/CMakeFiles/edit_cache.dir
+/home/eren/projects/linux_debugger/build/CMakeFiles/rebuild_cache.dir

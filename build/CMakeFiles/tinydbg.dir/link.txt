@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tinydbg.dir/src/main.cpp.o CMakeFiles/tinydbg.dir/ext/linenoise/linenoise.c.o -o tinydbg  -Wl,-rpath,/home/eren/projects/linux_debugger/ext/libelfin/dwarf:/home/eren/projects/linux_debugger/ext/libelfin/elf /home/eren/projects/linux_debugger/ext/libelfin/dwarf/libdwarf++.so /home/eren/projects/linux_debugger/ext/libelfin/elf/libelf++.so 
